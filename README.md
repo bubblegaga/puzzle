@@ -1,1 +1,1 @@
-# https://bubblegaga.github.io/puzzle/
+https://bubblegaga.github.io/puzzle/
